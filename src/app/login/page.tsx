@@ -154,9 +154,9 @@ export default function LoginPage() {
             >
                 <div className="text-center mb-8">
                     <h1 className="text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent tracking-tighter mb-2">
-                        NetBot V2
+                        Net-Connect
                     </h1>
-                    <p className="text-gray-400 text-sm">Elite Networking Intelligence</p>
+                    <p className="text-gray-400 text-sm">Networking toolkit</p>
                 </div>
 
                 {error && (
